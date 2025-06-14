@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "499182500759",
+    "project_id": "dibuang-sayang-6c726",
+    "storage_bucket": "dibuang-sayang-6c726.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499182500759:android:d2402e0fc427b1791be2d2",
+        "android_client_info": {
+          "package_name": "com.mycompany.dibuangsayang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499182500759-c6mv7ftbsct04ckd4i48i0dc5afl6j0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.dibuangsayang",
+            "certificate_hash": "323ad82eb832661d2ce63c729ddbeb046dff93cb"
+          }
+        },
+        {
+          "client_id": "499182500759-l9f49ocdnbe4uj2eirepn2ejhibd3r33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.dibuangsayang",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "499182500759-e3td9e0bn2ut5fvpqjrd5lgicr3qhoff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBwn0iv0jpcwyQEw-sBsEBhE8PdQI1LCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499182500759-e3td9e0bn2ut5fvpqjrd5lgicr3qhoff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499182500759-kk928vndu6ig72keqhdtssfv0ktl6fo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.dibuangsayang"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499182500759:android:89097db79be925661be2d2",
+        "android_client_info": {
+          "package_name": "com.mycompany.dibuangsayangwebspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499182500759-fnismn4j0qjm7kijlia1i79k1s4gorui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.dibuangsayangwebspa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "499182500759-e3td9e0bn2ut5fvpqjrd5lgicr3qhoff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBwn0iv0jpcwyQEw-sBsEBhE8PdQI1LCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499182500759-e3td9e0bn2ut5fvpqjrd5lgicr3qhoff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499182500759-kk928vndu6ig72keqhdtssfv0ktl6fo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.dibuangsayang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
